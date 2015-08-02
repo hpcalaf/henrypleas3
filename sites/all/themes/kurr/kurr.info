@@ -1,0 +1,42 @@
+name = KURR
+description = Personal Resume and Portfolio Drupal Theme, Created by Cocoon
+version = 1.0.0
+core = 7.x
+
+;necessary regions
+regions[main_menu] = Main menu
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+;hero regions
+regions[hero] = Hero
+
+;standard regions
+regions[content] = Content
+
+;onepage regions
+regions[onepage_about] = About
+regions[onepage_education] = Education
+regions[onepage_testimonials] = Testimonials
+regions[onepage_skills] = Skills
+regions[onepage_portfolio] = Portfolio
+regions[onepage_quote] = Quote
+regions[onepage_experience] = Experience
+regions[onepage_contact] = Contact
+
+;footer regions
+regions[social_links] = Social links
+
+settings[shortcut_module_link] = 0
+settings[skin] = turquoise
+settings[preloader] = 1
+
+settings[copyright] = KURR - 2014 © CREATED BY COCOON. ALL RIGHTS RESERVED.
+settings[header_title] = JOHN DOE
+settings[header_subtitle] = Resume / CV
+settings[menu_line_1] = <span>John Doe</span>
+settings[menu_line_2] = <a href="mailto:johndoe@jhondoe.com">johndoe@jhondoe.com</a>
+settings[menu_line_3] = <span>(123) 456 7890</span>
+settings[menu_position] = right
+settings[color] = light
